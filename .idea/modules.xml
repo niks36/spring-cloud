@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/configclient.iml" filepath="$PROJECT_DIR$/.idea/modules/configclient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/configclient_main.iml" filepath="$PROJECT_DIR$/.idea/modules/configclient_main.iml" group="configclient" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/configclient_test.iml" filepath="$PROJECT_DIR$/.idea/modules/configclient_test.iml" group="configclient" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/configserver.iml" filepath="$PROJECT_DIR$/.idea/modules/configserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/configserver_main.iml" filepath="$PROJECT_DIR$/.idea/modules/configserver_main.iml" group="configserver" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/configserver_test.iml" filepath="$PROJECT_DIR$/.idea/modules/configserver_test.iml" group="configserver" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/spring-cloud.iml" filepath="$PROJECT_DIR$/.idea/spring-cloud.iml" />
+    </modules>
+  </component>
+</project>
